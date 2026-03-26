@@ -49,8 +49,8 @@ IDE: Visual Studio Code
 
 O arquivo evidencia-final.png contém um print do sistema em funcionamento, mostrando:
 
-Entrada de dados
-Mensagens de carregamento
+Entrada de dados,
+Mensagens de carregamento,
 Resultado final formatado
 
 📁 Estrutura do Projeto - 
