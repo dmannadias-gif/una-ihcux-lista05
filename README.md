@@ -63,7 +63,7 @@ una-ihcux-lista05/
 └── README.md
 
 🚀 Como Executar - 
-Abra o terminal
-Navegue até a pasta do projeto
+Abra o terminal,
+Navegue até a pasta do projeto,
 Execute:
 dotnet run
