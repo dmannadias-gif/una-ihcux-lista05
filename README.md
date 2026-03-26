@@ -1,4 +1,3 @@
-📄 README.md
 💱 GLOBAL EXCHANGE - Conversor de Moedas v1.0
 
 Este projeto foi desenvolvido como atividade final da disciplina de IHC & UX, com o objetivo de criar um conversor de moedas no terminal que não apenas realiza cálculos, mas também oferece uma boa experiência para o usuário (UX).
